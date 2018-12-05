@@ -23,3 +23,7 @@
 | Вихрем несутся по грешной Земле  | [txt](songs/vihrem-nesutsya-po-greshnoi-zemle.txt) |
 | Слово                            | [txt](songs/slovo.txt)                             |
 | Господь, хочу гореть Твоим огнём | [txt](songs/gospod-hochu-goret-tvoim-ognyom.txt)   |
+
+| Песня      | TXT                        |
+| ---------- | -------------------------- |
+| Песнь Иова | [txt](songs/pesn-iova.txt) |
