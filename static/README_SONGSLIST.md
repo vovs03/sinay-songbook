@@ -24,6 +24,10 @@
 | Слово                            | [txt](songs/slovo.txt)                             |
 | Господь, хочу гореть Твоим огнём | [txt](songs/gospod-hochu-goret-tvoim-ognyom.txt)   |
 
-| Песня      | TXT                        |
-| ---------- | -------------------------- |
-| Песнь Иова | [txt](songs/pesn-iova.txt) |
+| Песня                    | TXT                                        |
+| ------------------------ | ------------------------------------------ |
+| Песнь Иова               | [txt](songs/pesn-iova.txt)                 |
+| Мой, Бог, мою душу оживи | [txt](songs/moi-bog-moyu-dushu-ozhivi.txt) |
+| Молитва                  | [txt](songs/molitva.txt)                   |
+| Пой, гитара, пой.        | [txt](songs/poi-gitara-poi.txt)            |
+| Следуй, за Мной          | [txt](songs/sledui-za-mnoi.txt)            |
